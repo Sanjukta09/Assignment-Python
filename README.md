@@ -1,5 +1,5 @@
-       Project Report: Investigating Nintendo Games Using Python, Web Scraping
-                                      
+** Project Report: Investigating Nintendo Games Using Python, Web Scraping **
+
 Introduction
 In this project, I aimed to analyze the sales data of Nintendo games using Python. To enhance our dataset, I performed web scraping to gather additional information from a gaming database. Then analyzed the combined dataset and created an interactive dashboard using Streamlit for an informative presentation.
 
